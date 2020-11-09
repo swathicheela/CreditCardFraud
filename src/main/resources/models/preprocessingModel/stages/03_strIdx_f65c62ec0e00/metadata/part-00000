@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1559866646121,"sparkVersion":"2.2.0","uid":"strIdx_f65c62ec0e00","paramMap":{"inputCol":"distance","handleInvalid":"error","outputCol":"distance_indexed"}}
